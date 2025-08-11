@@ -3,7 +3,7 @@ name: GCP Polaris Onboarding
 on:
   push:
     branches:
-      - 
+      - patch-1
     paths:
       - gcp_projects/**
   workflow_dispatch:
